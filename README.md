@@ -29,5 +29,11 @@ Babylon.js - можно сказать мини-игровой движок в �
 # Html/Css/Scss - [Codemu](https://code.mu/ru/markup/book/prime/)
 # Js - [JsУчбеник](https://learn.javascript.ru/)
 # Ts - [Codemu](https://code.mu/ru/javascript/typescript/book/prime/)
+# React - [Codemu](https://code.mu/ru/javascript/framework/react/book/prime/)
+# Про библиотеки у них на сайтах в документациях
+# Three.js - [Three.js](https://threejs.org/)
+# Boxicons - [Boxicons](https://boxicons.com/)
+# Butstrap - [Butstrap](https://getbootstrap.com/)
+# Babylon.js - [Babylon.js](https://www.babylonjs.com/)
 
 # By nezikog
