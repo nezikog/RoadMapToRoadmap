@@ -28,5 +28,6 @@ Babylon.js - можно сказать мини-игровой движок в �
 # Курсы
 # Html/Css/Scss - [Codemu](https://code.mu/ru/markup/book/prime/)
 # Js - [JsУчбеник](https://learn.javascript.ru/)
+# Ts - [Codemu](https://code.mu/ru/javascript/typescript/book/prime/)
 
 # By nezikog
