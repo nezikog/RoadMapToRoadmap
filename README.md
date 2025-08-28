@@ -1,5 +1,5 @@
 # RoadMapToFrontend
 # Что надо знать для Frontend?
-# 1. Html [[Image alt](https://github.com/nezikog/IMAGES/blob/main/HTML.png)]
+# 1. Html (https://github.com/nezikog/IMAGES/blob/main/HTML.png)
 
 
