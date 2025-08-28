@@ -1,5 +1,5 @@
 # RoadMapToFrontend
 # Что надо знать для Frontend?
-# 1. Html (https://github.com/nezikog/IMAGES/blob/main/HTML.png)
-
+# 1. Html
+HTML - нужен для реализации гипертекстовой разметки на странице(кнопки, меню и все остальное, что мы в принципе видим на сайте). Проще сказать элементы
 
